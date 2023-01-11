@@ -72,8 +72,7 @@ Terri	Duffy</br>
 Jo	Brown</br>
 Diane	Glimp</br>
 …	…</br>
-### Problem 10.	
-Rank Employees by Salary</br>
+### Problem 10.	Rank Employees by Salary
 Write a query that ranks all employees using DENSE_RANK. In the DENSE_RANK function, employees need to be partitioned by Salary and ordered by EmployeeID. You need to find only the employees whose Salary is between 10000 and 50000 and order them by Salary in descending order.</br>
 Example</br>
 EmployeeID	FirstName	LastName	Salary	Rank</br>
