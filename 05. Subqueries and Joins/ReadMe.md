@@ -198,5 +198,3 @@ Bulgaria	Musala	2925	Rila</br>
 Burkina Faso	(no highest peak)	0	(no mountain)</br>
 …	…	…	…</br>
 United States	Mount McKinley	6194	Alaska Range</br>
-
-
